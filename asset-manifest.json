@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static-react-page-amazon/static/css/main.d7bbaf36.css",
+    "main.js": "/static-react-page-amazon/static/js/main.8597a6ac.js",
+    "index.html": "/static-react-page-amazon/index.html",
+    "main.d7bbaf36.css.map": "/static-react-page-amazon/static/css/main.d7bbaf36.css.map",
+    "main.8597a6ac.js.map": "/static-react-page-amazon/static/js/main.8597a6ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7bbaf36.css",
+    "static/js/main.8597a6ac.js"
+  ]
+}
